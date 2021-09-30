@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>androidTeam branch!   **********</Text>
+      <Text>androidTeam branch!   ****android******</Text>
       <StatusBar style="auto" />
     </View>
   );
